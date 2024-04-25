@@ -1,0 +1,5 @@
+let nome = prompt("Digite o seu nome")
+let idade = Number(prompt("Digite sua idade"))
+let nacionalidade = prompt("Digite sua nacionalidade")
+let endereco = prompt("Digite seu endereço")
+alert(`Cliente: ${nome}\nIdade: ${idade}\nNacionalidade: ${nacionalidade}\nEndereço: ${endereco}`)
